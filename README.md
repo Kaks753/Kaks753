@@ -12,6 +12,33 @@
 </p>
 
 ---
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Libraries:** Pandas • NumPy • Scikit-learn  
+**ML Frameworks:** TensorFlow • PyTorch  
+**Visualization:** Matplotlib • Seaborn • Plotly
+
+</td>
+<td valign="top" width="50%">
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+- Dashboard Development
+- Data Visualization & Reporting
+- KPI Tracking & Metrics
+
+### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Databases:** MySQL • PostgreSQL • MongoDB
 
 ## 👋 Professional Summary
 

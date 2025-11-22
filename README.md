@@ -1,118 +1,116 @@
-<div align="center">
-  <img src="banner.png" alt="Stephen Muema - Data Scientist Banner" width="100%"/>
-</div>
+# Stephen Muema
 
-<h1 align="center">Hi 👋, I'm Stephen Muema</h1>
-<h3 align="center">Data Scientist & Machine Learning Engineer | Transforming Data into Actionable Insights</h3>
+### Data Scientist & Machine Learning Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaks753&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Kaks753?label=Followers&style=social" alt="followers" />
-</p>
+**Driving business decisions through intelligent, scalable data solutions.**
 
 ---
 
-### 👨‍💻 About Me
+## 🔍 Profile
 
-- 🔭 I'm currently building **predictive models and data-driven solutions** for international clients
-- 🌱 I'm expanding my expertise in **Deep Learning, MLOps, and Advanced Analytics**
-- 💼 Delivered **5+ successful analytics and ML projects** across various industries
-- 📊 Passionate about **transforming complex data into actionable business insights**
-- 🎯 Strong background in **Mathematics** with hands-on experience in model deployment
-- 📫 Reach me at **musyokas753@gmail.com**
-- 📄 [View My Portfolio](https://kakssportfolio.netlify.app/)
+I help organizations transform raw data into reliable insights and predictive systems that support smarter strategy and measurable growth. My focus is on practical, production-ready machine learning with clear business value.
 
----
+* Experience delivering end-to-end analytics and ML solutions
+* Strong background in Mathematics and statistical modeling
+* Focused on accuracy, explainability, and scalability
 
-### 🛠️ Technical Skills
-
-#### Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-#### Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### Tools & Technologies
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+📫 **Email:** [musyokas753@gmail.com](mailto:musyokas753@gmail.com)
+🌐 **Portfolio:** [https://kakssportfolio.netlify.app/](https://kakssportfolio.netlify.app/)
 
 ---
 
-### 📊 GitHub Statistics
+## 🚀 Selected Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaks753&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaks753&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
+**Sales Forecasting System**
+Predictive pipeline for revenue planning and demand forecasting using regression models.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaks753&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+**Movie Box Office Prediction Model**
+Analyzed budget, genre, and studio data to forecast global performance using supervised ML.
 
----
-
-### 🎯 Current Goals
-
-- 🚀 Building end-to-end ML pipelines and deployment systems
-- 📚 Mastering MLOps and model monitoring techniques
-- 🤝 Contributing to open-source data science projects
-- 💡 Sharing knowledge through technical blogs and tutorials
-- 🌐 Expanding my portfolio with innovative data solutions
+**Customer Churn Prediction**
+Classification model to identify high-risk customers and support retention strategies.
 
 ---
 
-### 🌐 Connect With Me
+## 🛠 Core Skill Set
 
-<p align="center">
-  <a href="https://linkedin.com/in/stephen-muema" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://kakssportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.fiverr.com/s/5r97k6E" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-  <a href="mailto:musyokas753@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### Data Science & Machine Learning
+
+* Predictive Modeling & Statistical Analysis
+* Feature Engineering & Model Optimization
+* Classification & Regression
+* Model Evaluation Metrics
+
+### Programming & Analytics
+
+* Python, SQL, R
+* Pandas, NumPy, Scikit-learn
+* TensorFlow, PyTorch
+* Matplotlib, Seaborn
+
+### Business Intelligence
+
+* Power BI & Tableau
+* Data Visualization & Reporting
+
+### Tools
+
+* Git, Jupyter, VS Code, Excel
+
+### Databases
+
+* MySQL | PostgreSQL | MongoDB
 
 ---
 
-### 📈 Activity Graph
+## 🧠 Working Principles
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaks753&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
+* Business problems first, models second
+* Clarity over complexity
+* Scalable and explainable solutions
+* Insight-driven decision support
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <i>⚡ "Turning data into decisions, one insight at a time" ⚡</i>
-</p>
+* Building robust ML pipelines
+* Improving MLOps and deployment practices
+* Expanding real-world AI applications
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: [https://linkedin.com/in/stephen-muema](https://linkedin.com/in/stephen-muema)
+* Portfolio: [https://kakssportfolio.netlify.app/](https://kakssportfolio.netlify.app/)
+* Fiverr: [https://www.fiverr.com/s/5r97k6E](https://www.fiverr.com/s/5r97k6E)
+* Email: [musyokas753@gmail.com](mailto:musyokas753@gmail.com)
+
+---
+
+> ⚡ *Data is only powerful when it drives action.*
+
+---
+
+### 📊 Code Activity & Engineering Consistency
+
+This section reflects my real development behavior — consistency, problem-solving frequency, and technical engagement over time. It gives recruiters and collaborators a transparent view of how actively I build, test, and maintain data systems.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaks753\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+Key signals this highlights:
+
+* Consistent contribution habits
+* Regular problem-solving and iteration
+* Active engagement with data-focused repositories
+
+This is not about vanity metrics — it represents reliability, discipline, and ongoing technical growth.
+
+---
+
+### What You Get
+
+* Reliable, business-oriented data solutions
+* Clean, structured, and maintainable code
+* Strategic thinking beyond basic analysis

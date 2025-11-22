@@ -12,33 +12,6 @@
 </p>
 
 ---
-### Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Libraries:** Pandas • NumPy • Scikit-learn  
-**ML Frameworks:** TensorFlow • PyTorch  
-**Visualization:** Matplotlib • Seaborn • Plotly
-
-</td>
-<td valign="top" width="50%">
-
-### Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-- Dashboard Development
-- Data Visualization & Reporting
-- KPI Tracking & Metrics
-
-### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-**Databases:** MySQL • PostgreSQL • MongoDB
 
 ## 👋 Professional Summary
 
@@ -53,7 +26,7 @@ What sets me apart is not just technical ability — but the focus on how data d
 - Experience working with diverse international clients  
 
 📧 Email: musyokas753@gmail.com  
-🌐 Portfolio: https://kakssportfolio.netlify.app
+🌐 Portfolio: [kakssportfolio.netlify.app](https://kakssportfolio.netlify.app)
 
 ---
 
@@ -72,6 +45,10 @@ Developed a classification model that identifies customers likely to leave, enab
 
 ## 🧩 Core Expertise
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Data Science & Machine Learning
 - Predictive Modeling & Statistical Analysis  
 - Feature Engineering & Optimization  
@@ -79,18 +56,39 @@ Developed a classification model that identifies customers likely to leave, enab
 - Time Series Forecasting  
 - Model Evaluation & Performance Tuning  
 
-**Technologies:**  
-Python • SQL • R  
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Libraries & Frameworks:**  
 Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch  
-Matplotlib • Seaborn • Plotly  
+
+**Visualization:**  
+Matplotlib • Seaborn • Plotly
+
+</td>
+<td valign="top" width="50%">
 
 ### Business Intelligence & Reporting
-Power BI • Tableau • Excel  
-Interactive Dashboards • KPI Monitoring • Business Reporting  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+- KPI Monitoring & Executive Dashboards  
+- Performance Analytics & Data Storytelling  
 
 ### Tools & Platforms
-Git • Jupyter Notebook • VS Code  
-MySQL • PostgreSQL • MongoDB  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Databases:**  
+MySQL • PostgreSQL • MongoDB
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,7 +117,7 @@ MySQL • PostgreSQL • MongoDB
 ## 📊 Consistency & Technical Discipline
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaks753&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaks753&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaks753&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 

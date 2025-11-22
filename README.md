@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="banner.png" alt="Stephen Muema - Data Scientist Banner" width="100%"/>
-</div>
+
 
 <h1 align="center">Stephen Muema</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer</h3>

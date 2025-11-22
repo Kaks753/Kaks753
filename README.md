@@ -130,7 +130,7 @@ This reflects real commitment, consistency, and problem-solving behavior over ti
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/stephen-muema" target="_blank">
+  <a href="https://www.linkedin.com/in/stephen-muema-617339359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://kakssportfolio.netlify.app/" target="_blank">

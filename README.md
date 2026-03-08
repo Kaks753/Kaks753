@@ -24,7 +24,7 @@ What sets me apart is not just technical ability — but the focus on how data d
 - Experience working with diverse international clients  
 
 📧 Email: musyokas753@gmail.com  
-🌐 Portfolio: [muemaportfolio.netlify.app](https://muemaportfolio.netlify.app/)
+🌐 Portfolio: [muemaportfolio.netlify.app](https://muemastephenportfolio.netlify.app/)
 
 ---
 
